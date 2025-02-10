@@ -1,5 +1,12 @@
 # Speech Recognition Python IA - DIO
 
+## Demonstração
+
+<iframe src="https://drive.google.com/file/d/1BIr6ssOFuJXhCZkhaJZ1gvkFs11K31iR/preview" width="640" height="480" allow="autoplay"></iframe>
+
+[![Assistir ao vídeo](https://img.youtube.com/vi/ID_DO_VIDEO/maxresdefault.jpg)](https://drive.google.com/file/d/1BIr6ssOFuJXhCZkhaJZ1gvkFs11K31iR/view)
+
+
 Este é um assistente virtual baseado em reconhecimento de fala e síntese de voz desenvolvido em Python. O projeto permite que o usuário dê comandos de voz para abrir o YouTube, Google Maps ou pesquisar no Wikipedia.
 
 ## Tecnologias Utilizadas
